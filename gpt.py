@@ -19,7 +19,7 @@ dropout = 0.2
 
 torch.manual_seed(1337)
 
-with open('/Users/aprameya/ML Projects/Project 2/input.txt', 'r', encoding='utf-8') as f:
+with open('input.txt', 'r', encoding='utf-8') as f: #use path of file, if 'input.txt' doesn't work
     text = f.read()
 
 chars = sorted(list(set(text)))
