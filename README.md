@@ -45,5 +45,9 @@ Stay you passed you.
 FRIAR LAUDIO:
 Though you well, cratch?
 
+
+
 max_iter for charming-loon-212 = 3000, 
 max_iter for treasured-toad-597 = 5000
+
+Device: MacBook Air M1
