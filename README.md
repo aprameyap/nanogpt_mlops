@@ -9,7 +9,7 @@ MLFlow used to compare runs, taking few hyperparameters as mlflow parameters, an
 
 # Generated text for charming-loon-212:
 
-WARWICK:
+`WARWICK:
 What is his done aufidst as a pinclaim to
 me wife, hisson's father shall be to-night
 Internt thou new to sin. Is his such swent;
@@ -23,11 +23,11 @@ Let, thou sharnst else joice you a dead,
 Before brother and liver a downe fame:
 Chard, a mall are, Duke of York,
 That anow her Warwicked conceives on,
-A
+A`
 
 # Generated text for treasured-toad-597:
 
-CLEOMENES:
+`CLEOMENES:
 What is thing upon, I go, my lord. In off pitches.
 That when be natured Rutland Hark!
 But chide and Not love, Warwick in my like,
@@ -43,11 +43,11 @@ MENENIUS:
 Stay you passed you.
 
 FRIAR LAUDIO:
-Though you well, cratch?
+Though you well, cratch?`
 
 
 
-max_iter for charming-loon-212 = 3000, 
-max_iter for treasured-toad-597 = 5000
+`max_iter for charming-loon-212 = 3000, 
+max_iter for treasured-toad-597 = 5000`
 
 Device: MacBook Air M1
