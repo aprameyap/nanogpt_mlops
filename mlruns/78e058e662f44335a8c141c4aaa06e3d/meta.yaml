@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aprameya/ML%20Projects/mlruns/0/78e058e662f44335a8c141c4aaa06e3d/artifacts
+end_time: 1675214797921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 78e058e662f44335a8c141c4aaa06e3d
+run_uuid: 78e058e662f44335a8c141c4aaa06e3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675212349971
+status: 3
+tags: []
+user_id: aprameya
