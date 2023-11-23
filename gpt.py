@@ -5,7 +5,7 @@ import mlflow
 
 # hyperparameters
 batch_size = 32 # how many independent sequences will we process in parallel?, param1
-block_size = 128 # what is the maximum context length for predictions?, param2
+block_size = 256 # what is the maximum context length for predictions?, param2
 max_iters = 5000
 eval_interval = 500
 learning_rate = 12e-4 #param3
